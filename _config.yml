@@ -1,0 +1,3 @@
+exclude: [Gemfile, Gemfile.lock, CNAME]
+include: [_cmn.css]
+encoding: Windows-1251
